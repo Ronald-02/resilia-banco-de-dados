@@ -1,4 +1,6 @@
 ## MÓDULO 4 - BANCO DE DADOS => RESILIA EDUCAÇÃO 
+
+<img align="center" width="140%" alt="banco" src="projetobancodedados.png">
                                                      
  👨‍💻 Iniciando: 
 
